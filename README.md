@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-I'm Flora! One of my favorite hobbies is reading, and what I enjoy most about analytics is figuring out what the numbers are telling me and how to turn that information into something clear and meaningful 📚
+I’m Flora! One of my favorite hobbies is reading, and I think that’s part of why I enjoy analytics too. I like figuring out what the numbers are telling me and how to turn that information into something clear and meaningful 📚
 
 ### A little about me: 
 
@@ -11,4 +11,4 @@ I'm Flora! One of my favorite hobbies is reading, and what I enjoy most about an
 - 💬 My projects include a mix of improved coursework and personal data analytics projects
 
 
-Thanks for stopping by! Feel free to explore some of my projects below! 👇
+Thanks for stopping by! I’m currently building out my portfolio and adding projects as I go 🏃🏻‍♀️‍➡️
