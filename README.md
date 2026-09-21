@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m Flora! One of my favorite hobbies is reading, and what I enjoy most about analytics is figuring out what the numbers are telling me and how to turn that information into something clear and meaningful 📚
+I'm Flora! One of my favorite hobbies is reading, and what I enjoy most about analytics is figuring out what the numbers are telling me and how to turn that information into something clear and meaningful 📚
 
 ### A little about me: 
 
